@@ -25,5 +25,5 @@ A fully automated demand forecasting and inventory optimization system to attain
   Stock cover: the number of days left before a stockout if no reorder is made[citation needed]
   Accuracy: the expected accuracy of the forecasts[citation needed])
   
-Disclaimer: the information in this document was obtained from (https://en.wikipedia.org/wiki/Inventory_management_software#Purpose). In no way possible does it below to Adrian or Aldrick just a guideline to developers and casual readers.
+Disclaimer: the information in this document was obtained from (https://en.wikipedia.org/wiki/Inventory_management_software#Purpose). In no way possible does it belongs to Adrian or Aldrick just a guideline to developers and casual readers.
 
